@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Junteng Liu**, a first-year PhD candidate at the [HKUST NLP Group]. My research focuses on natural language processing and machine learning, with specific interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLM), and LLM truthfulness and interpretability.
+I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group. My research focuses on natural language processing and machine learning, with specific interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLM), and LLM truthfulness and interpretability.
 
 Academic Background
 ======
@@ -26,9 +26,9 @@ Research Experience
 Publications
 ======
 
-1. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond* (2025). First author. Published on ArXiv. With Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
+1. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond* (2025). First author. Published on Arxiv. With Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
 
-2. *On the Perception Bottleneck of VLMs for Chart Understanding* (2025). First author. Published on ArXiv. With Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
+2. *On the Perception Bottleneck of VLMs for Chart Understanding* (2025). First author. Published on Arxiv. With Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
 
 3. *On the Universal Truthfulness Hyperplane Inside LLMs* (2024). First author. Published at EMNLP 2024. With Shiqi Chen, Yu Cheng, Junxian He.
 
