@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
-  bio              : "First-year PhD candidate at the HKUST NLP Group, where I am a PhD candidate advised by Professor Junxian He. My research focuses on natural language processing and machine learning, with an emphasis on LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and Interpretability."
+  bio              : "I am a first-year PhD candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am part of the HKUST NLP Group led by Professor Junxian He. My research focuses on natural language processing and machine learning, with an emphasis on LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and Interpretability."
   location         :
   employer         : "Hong Kong University of Science and Technology"
   uri              : "https://dnush23.github.io/LJT-Homepage/"
